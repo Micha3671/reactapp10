@@ -1,6 +1,7 @@
 // import logo from "./logo.svg";
 import "./App.css";
 import "./styles/Variables.css";
+
 import Header from "./components/layout/header/Header";
 import Navbar from "./components/layout/navbar/Navbar";
 import Content from "./components/layout/content/Content";
@@ -11,7 +12,7 @@ function App() {
   return (
     <div className="App">
       <Navbar />
-      <h1>Under construction</h1>
+      <h1>still under construction</h1>
       <Header />
       <Content />
       <Footer />
