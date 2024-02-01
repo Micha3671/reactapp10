@@ -3,9 +3,7 @@ function Header() {
   return (
     <div className={styles.headermain}>
       <div>
-        <h1 className={styles.headerText}>
-          Hier kommen die Infos zur Finstagram-Seite
-        </h1>
+        <h1 className={styles.headerText}>Dies ist ein neuer Text</h1>
       </div>
     </div>
   );
