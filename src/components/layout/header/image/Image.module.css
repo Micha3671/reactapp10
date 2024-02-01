@@ -1,0 +1,8 @@
+.profilBild {
+  height: 15px;
+  width: 15px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 5px;
+}

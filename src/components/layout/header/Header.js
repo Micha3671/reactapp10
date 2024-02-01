@@ -1,4 +1,5 @@
 import styles from "./Header.module.css";
+import Image from "./image/Image";
 function Header() {
   return (
     <div className={styles.headermain}>
@@ -7,6 +8,7 @@ function Header() {
           Hier kommen die Infos zur Finstagram-Seite
         </h1>
       </div>
+      <Image />
     </div>
   );
 }
